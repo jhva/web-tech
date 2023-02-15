@@ -22,7 +22,7 @@ int copyScore=score;
 ```java
 인스턴스를 넘겼을경우 .
 
-User user = new User();  
+        User user = new User();  
 //.. set .. name
 //..set .. passowrd 
 user.getName() - 하게되면 set한데이터가 넘겨짐 .    

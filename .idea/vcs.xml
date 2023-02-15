@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/day2-Spring-IoC" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/tech-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TIL-JPA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TIL-Spring-IoC" vcs="Git" />
   </component>
 </project>
