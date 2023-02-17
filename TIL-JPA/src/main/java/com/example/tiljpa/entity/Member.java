@@ -23,6 +23,9 @@ public class Member {
     @ManyToOne
     @JoinColumn(name="TEAM_ID")
     public Team team;
+//
+//    @OneToOne
+//    private Locker locker;
 
 //    @Enumerated(EnumType.STRING)
 //    private RoleType roleType;
