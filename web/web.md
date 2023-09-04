@@ -44,15 +44,13 @@ ___
 1. 웹 브라우저 통신규격에 맞게 http,https 프로토콜을 사용해서 도메인을 치고 엔터를 누를경우 
 제일 먼저 웹 브라우저는 URL을 통해 인터넷상에서의 연결할 서버를 파악하기 위해 웹 사이트를 호스팅하는 서버의 IP 주소를 알아낸 후 <strong><a href="https://github.com/jhva/tech-study/blob/main/network/dns.md" target="_blank">DNS</a></strong> 작업을 수행 한다 . 
 2. DNS를 통해 IP 주소를 알게되었다면 이후 <strong><a href="https://github.com/jhva/tech-study/blob/main/network/TCP_3%20way%20handShake.md" target="_blank">TCP_3 Way HandShake / TCP_4 Way HandShake </a></strong> 과정이 이루어진다. 
-3. 이후 HTTP 요청을 하는데, 이때 HTTPS 가 설정이 되어있을경우 <strong><a href="" target="_blank">TLS HandShake </a></strong> 과정이 발생
+3. 이후 HTTP 요청을 하는데, 이때 HTTPS 가 설정이 되어있을경우 <strong><a href="" target="_blank">TLS/SSL HandShake </a></strong> 과정이 발생
 4. 이후 받은 데이터를 통해서 정적 리소스,혹은 데이터들을 보여준다
-   4. 이때 정적 리소스라하면 (HTML,CSS,JS)등이 있을텐데, 전송받은 리소스들을 파싱하고 렌더링 하는 과정입니다.
+   1. 이때 정적 리소스라하면 `HTML`,`CSS` 혹은 `JS` 등이 있을텐데, 전송받은 리소스들을 파싱하고 렌더링 하게 됨.
 
-위 과정이 전반적인 웹 브라우저의 동작원리이다. 
 </div>
 
 
 </details>
 
 
-## 웹 브라우저의 보호 
