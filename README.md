@@ -13,7 +13,7 @@
 
 ## table of contents
 
-+ [👀 Web]('')
++ <a href="https://github.com/jhva/web-tech/blob/main/web/web.md" target="_blank">👀 Web</a>
 + [👀 React]('')
 + [👀 Java]('')
 + [👀 Spring Boot]('')
