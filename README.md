@@ -18,6 +18,8 @@
 + [👀 Java]('')
 + [👀 Spring Boot]('')
 + [👀 Network]('')
++ 👀 OS
+  + <a href="https://github.com/jhva/web-tech/blob/main/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%EC%8A%A4%EB%A0%88%EB%93%9C.md" target="_blank">프로세스와 스레드</a>
 
 ## KakaoCloudScool 2th 
 >카카오클라우드 스쿨에서 학습하고 정리한 내용
